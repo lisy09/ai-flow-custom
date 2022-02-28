@@ -1,2 +1,2 @@
-# asdf local version
-.tool-versions
+__pycache__
+.pytest_cache
